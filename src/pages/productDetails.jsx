@@ -34,7 +34,7 @@ const title = items.title
     <>
     
     <Card style={{ width: '40rem' }}>
-        <Card.Img variant="top" src= {items.image} />
+        <Card.Img  variant="top" src= {items.image} />
         <Card.Body>
            <Card.Title>{items.title} </Card.Title>   
           <Card.Text>{items.price} </Card.Text>

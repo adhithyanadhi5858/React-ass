@@ -9,7 +9,7 @@ function Roots() {
     <div>
         <Navs/>
 
-
+          <Outlet/>
         <Footer/>
     </div>
    
